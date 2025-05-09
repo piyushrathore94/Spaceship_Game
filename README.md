@@ -66,6 +66,7 @@ pip install -r requirements.txt
 If you don't have a requirements.txt file yet, here's how to create it.
 
 📄 requirements.txt File
+
 Here's the requirements.txt file you should include in your project directory:
 
 ini
@@ -80,6 +81,8 @@ Edit
 pip freeze > requirements.txt
 This will capture the current environment’s dependencies into the requirements.txt file.
 
+----------------------------------------------------------------------------------------
+
 🚀 Run the Game
 Once the dependencies are set up, run the game with the following command:
 
@@ -89,10 +92,14 @@ Edit
 python main.py
 The game will start in a window, and you can begin playing.
 
+-----------------------------------------------------------------------------------------
+
 🎮 Controls
 Arrow Keys or WASD: Move the spaceship.
 
 Spacebar: Shoot lasers.
+
+------------------------------------------------------------------------------------------------
 
 🤝 Contributing
 Feel free to fork this repository, submit pull requests, or open issues if you have any feature requests or bug reports.
