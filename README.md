@@ -1,4 +1,5 @@
 🚀 Space Invader PyGame 🌌
+
 Space Invader PyGame is a fun, retro-style space shooter game built using the Python library Pygame. The objective of the game is to control a spaceship and shoot down waves of enemies while dodging their attacks. Players can collect power-ups such as shields and health packs to enhance their chances of survival.
 
 ✨ Features
@@ -13,6 +14,8 @@ Space Invader PyGame is a fun, retro-style space shooter game built using the Py
 💣 Explosions: When enemies are hit, explosions are triggered with particle effects.
 
 ❤️ Health Bar: The player's health is displayed with a progress bar.
+
+---------------------------------------------------------------------------------
 
 🛠️ Installation
 🔑 Requirements
